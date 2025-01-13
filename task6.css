@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: wheat;
+
+}
+li{
+    display: inline-flex;
+    font-size: 100%;
+    margin: 100px;
+    margin-top: 10px ;
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    background-color: rgb(67, 210, 210);
+    
+    
+    
+}
+ul{
+    background-color: rgba(45, 187, 161, 0.452);
+    height: 100px;
+}
